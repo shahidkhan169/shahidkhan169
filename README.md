@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Shahid Khan:
+<h1 align="center">Hi👋, I'm Shahid Khan </h1>
 💻 Artificial Intelligence & Data Science Enthusiast  <br><br>  
 🤖 Passionate about building ML models and exploring data analytics  <br><br>  
 🌐 Full Stack Developer | 🎮 Game Development Enthusiast  <br><br>  
