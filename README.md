@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Artificial Intelligence & Data Science Enthusiast  <br>🤖 Passionate about building ML models and exploring data analytics  <br>🌐 Full Stack Developer | 🎮 Game Development Enthusiast  <br>🚀 Constantly learning and sharing projects focused on innovation  <br>
+💻 Artificial Intelligence & Data Science Enthusiast  <br><br>🤖 Passionate about building ML models and exploring data analytics  <br><br>🌐 Full Stack Developer | 🎮 Game Development Enthusiast  <br><br>🚀 Constantly learning and sharing projects focused on innovation  <br>
 
 
 ## 🌐 Socials:
